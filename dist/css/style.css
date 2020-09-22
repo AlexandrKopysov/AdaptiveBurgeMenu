@@ -1,0 +1,7 @@
+div {
+  background: url(../img/img1.jpeg) 0 0 no-repeat;
+}
+
+.webp div {
+  background: url(../img/img1.webp) 0 0 no-repeat;
+}
